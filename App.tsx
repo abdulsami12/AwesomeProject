@@ -14,10 +14,10 @@ export default function App() {
         <View>
 
           <Text style={styles.TitleText}>
-            Create
+            Create an
           </Text>
           <Text style={styles.TitleText}>
-            Account
+            Account 
           </Text>
         </View>
       </View>
