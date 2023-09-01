@@ -14,7 +14,7 @@ export default function App() {
         <View>
 
           <Text style={styles.TitleText}>
-            Create an
+            Create 
           </Text>
           <Text style={styles.TitleText}>
             Account 
